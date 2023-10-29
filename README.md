@@ -1,4 +1,4 @@
-# Create-Social-Media-Posts-InternServy-Task5
+# Create-Social-Media-Posts-InternSavy-Task5
 Social Media Posts:-
 ![image](https://github.com/freinddeepti/Create-Social-Media-Posts-InternServy-Task5/assets/142092029/9aa192f0-c391-405c-b809-27bce77b39ce)
 
